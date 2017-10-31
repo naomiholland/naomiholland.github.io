@@ -4,6 +4,11 @@ p {
 body {   
 backround-color: red;
 }
+
+h1 {
+    color: blue;
+}
+
 a:link, a:visited {
     background-color: lightblue;
     color: white;
