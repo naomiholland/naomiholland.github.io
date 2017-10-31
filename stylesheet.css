@@ -1,9 +1,9 @@
 p {
     font-family: Arial, sans-serif;
      }
-   
-backround-color: violet;
-
+body {   
+backround-color: red;
+}
 a:link, a:visited {
     background-color: lightblue;
     color: white;
