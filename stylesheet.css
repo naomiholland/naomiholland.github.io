@@ -10,8 +10,8 @@ h1 {
 }
 
 a:link, a:visited {
-    background-color: lightgray;
-    color: black;
+    background-color: lightblue;
+    color: white;
     font-family:Arial, sans-serif;
     padding: 17px 25px;
     text-align: center;
@@ -19,7 +19,7 @@ a:link, a:visited {
     display: inline-block;
 }
 a:hover, a:active {
-    background-color: navy;
+    background-color: lightgray;
 }
 
 img {
