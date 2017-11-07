@@ -25,3 +25,6 @@ a:hover, a:active {
 img {
         margin: auto;
 }
+ul {
+    list-stye-type: none;
+}
