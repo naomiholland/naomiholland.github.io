@@ -10,6 +10,7 @@ background-color: lightblue;
 
 h1 {
     color: red;
+    text-align: center;
 }
 
 a:link, a:visited {
