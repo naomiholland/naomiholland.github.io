@@ -1,6 +1,8 @@
 p {
     font-family: Arial, sans-serif;
-     }
+    text-align: center;
+    font-size: 130%;
+   }
 
 body {   
 background-color: lightblue;
