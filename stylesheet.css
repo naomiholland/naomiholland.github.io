@@ -14,8 +14,8 @@ h1 {
 }
 
 a:link, a:visited {
-    background-color: navy;
-    color: white;
+    background-color: lightgray;
+    color: black;
     font-family:Arial, sans-serif;
     padding: 17px 25px;
     text-align: center;
@@ -23,7 +23,7 @@ a:link, a:visited {
     display: inline-block;
 }
 a:hover, a:active {
-    background-color: violet;
+    background-color: navy;
 }
 
 img {
