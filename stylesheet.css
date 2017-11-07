@@ -3,7 +3,7 @@ p {
      }
 
 body {   
-backround-color: lightblue;
+background-color: lightblue;
 }
 
 h1 {
@@ -21,3 +21,4 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: red;
 }
+
