@@ -1,12 +1,13 @@
 p {
     font-family: Arial, sans-serif;
      }
+
 body {   
-backround-color: red;
+backround-color: lightblue;
 }
 
 h1 {
-    color: blue;
+    color: red;
 }
 
 a:link, a:visited {
