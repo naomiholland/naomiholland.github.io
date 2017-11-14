@@ -27,3 +27,7 @@ img {
 ul {
     list-stye-type: none;
 }
+header{
+		text-align: center;
+		background-color: lightgray;
+		padding: 20px;
