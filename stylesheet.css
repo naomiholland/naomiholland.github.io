@@ -11,15 +11,7 @@ h1 {
 h2 {
 	text-align: center;
 }
-a:link, a:visited {
-    background-color: navy;
-    color: white;
-    font-family:Arial, sans-serif;
-    padding: 17px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-}
+
 a:hover, a:active {
     background-color: blue;
 }
@@ -32,7 +24,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	backround-color: navy;
+	background-color: navy;
 }
 header {
 		text-align: center;
