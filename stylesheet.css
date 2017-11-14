@@ -32,7 +32,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	backround color: navy;
+	backround-color: navy;
 }
 header {
 		text-align: center;
@@ -43,4 +43,12 @@ li {
 	float: left;
 }
 
-li a
+li a {
+    background-color: navy;
+    color: white;
+    font-family:Arial, sans-serif;
+    padding: 17px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
