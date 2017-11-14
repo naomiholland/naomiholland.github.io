@@ -29,8 +29,18 @@ img {
 }
 ul {
     list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	backround color: navy;
 }
-header{
+header {
 		text-align: center;
 		background-color: lightgray;
 		padding: 20px;
+}
+li {
+	float: left;
+}
+
+li a
