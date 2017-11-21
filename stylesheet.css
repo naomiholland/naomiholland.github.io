@@ -17,6 +17,12 @@ a:hover, a:active {
     background-color: blue;
 }
 
+body {
+	background-image: url("https://www.google.co.nz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjBk5m70NDXAhWHJpQKHa7ABvAQjBwIBA&url=https%3A%2F%2Fwww.freevector.com%2Fuploads%2Fvector%2Fpreview%2F18390%2FDD-Blue-Sky-Background-02138-Preview.jpg&psig=AOvVaw13v-rqgngLMtmVSr_cD7ej&ust=1511386254300262");
+background-position: center center;
+	background-size: cover;
+}
+	
 img {
         margin: auto;
 }
