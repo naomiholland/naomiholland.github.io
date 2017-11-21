@@ -4,7 +4,7 @@ p {
    }
 h1 {
     font-family: Cabin Sketch, cursive;
-	color: navy;
+	color: cream;
     text-align: center;
 }
 
@@ -13,7 +13,7 @@ h2 {
 }
 
 a:hover, a:active {
-    background-color: blue;
+    background-color: lightgreen;
 }
 
 body {
@@ -30,7 +30,7 @@ ul {
 	margin: 0;
 	padding: 0px;
 	overflow: hidden;
-	background-color: navy;
+	background-color: green;
 }
 header {
 		text-align: center;
