@@ -14,6 +14,9 @@ h1 {
 h2 {
 	text-align: center;
 }
+h3 {
+	text-align: center;
+}
 
 a:hover, a:active {
     background-color: #66cc00;
